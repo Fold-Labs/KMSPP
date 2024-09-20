@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.80.30988.0%0D%0A%0D%0A00:00:00.000%20--%3E%2000:00:06.557%0D%0AYou%20and%20the%20children%20have%20planted%20the%20purple%20gem-flowers%20around%20your%20tents.%20Everyone%20is%20safe%20for%20the%20night.%0D%0A%0D%0A"}')

@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.80.30988.0%0D%0A%0D%0A00:00:00.001%20--%3E%2000:00:05.985%0D%0AToday%20you%20learnt%20the%20ICE%20formula,%20which%20I%20am%20sure%20will%20be%20useful%20in%20the%20future%20as%20well.%0D%0A%0D%0A"}')

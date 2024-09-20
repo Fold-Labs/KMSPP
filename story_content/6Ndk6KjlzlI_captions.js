@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.80.30988.0%0D%0A%0D%0A00:00:00.035%20--%3E%2000:00:06.764%0D%0A4%20years%20ago,%20Earth%20was%20attacked%20by%20the%20oxygen-sucking%20red%20fungus.%20Many%20died.%0D%0A%0D%0A"}')

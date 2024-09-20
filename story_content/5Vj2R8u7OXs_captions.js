@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.80.30988.0%0D%0A%0D%0A00:00:00.000%20--%3E%2000:00:06.919%0D%0A%20You%20need%20short%20lively%20activities%20to%20energise%20them.%20Such%205%20minute%20activities%20are%20called%20Energisers.%20%0D%0A%0D%0A"}')
